@@ -1,4 +1,4 @@
-                                                                      Application launch instructions:
+                                                        Application launch instructions:
 1. In the terminal, go to the folder my-app
 
 
